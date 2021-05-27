@@ -1,5 +1,5 @@
 ---
-title: "1.Guide pour miner Phala"
+title: "PoC-4 Guide pour miner Phala"
 weight: 2
 draft: false
 ---
@@ -15,7 +15,7 @@ draft: false
 - ### [x] 3.2 Renseignez vous sur le projet Phala :
     - Le site web du projet : https://phala.network/
     - le whitepaper : https://files.phala.network/phala-paper.pdf
-    - Ensembles d'articles disponibles en français : https://medium.com/phala-français
+    - Ensembles d'articles disponibles en français : https://medium.com/phala-francais
     - Inscrivez-vous sur le Télégram francophone : https://t.me/phala_french
 
 
